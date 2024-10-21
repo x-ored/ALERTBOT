@@ -4,12 +4,12 @@ Binance futures audio notifications based on https://t.me/sharpenerobserver
 
 for create telegram API key 'https://core.telegram.org/api/obtaining_api_id' 'https://my.telegram.org/auth?to=apps' <br><br>
 
-//////// EDIT BEFORE USE config.json ////////
-"telegram_acc" : "YOUR TELEGRAM PHONE NUMBER",
-"apiId" : 0,
+//////// EDIT BEFORE USE config.json ////////<br>
+"telegram_acc" : "YOUR TELEGRAM PHONE NUMBER",<br>
+"apiId" : 0,<br>
 "apiHash" : "0" 
   
 
-=== Run script ===<br>
+----- Run script commands -----<br> 
 npm install<br>
 node run
