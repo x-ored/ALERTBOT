@@ -1,0 +1,13 @@
+{
+    "1m": false,
+    "2m": false,
+    "5m": false,
+    "1h": true,
+    "4h": true,
+    "1d": true,
+    "1M": true,
+    "telegram_acc" : "",
+    "apiId" : 0,
+    "apiHash" : "0" 
+  }
+  

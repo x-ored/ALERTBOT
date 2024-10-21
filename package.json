@@ -1,0 +1,17 @@
+{
+  "name": "screenear-crypto",
+  "version": "1.0.0",
+  "description": "A Telegram bot for cryptocurrency trading",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ваше Имя",
+  "license": "MIT",
+  "dependencies": {
+    "copy-paste": "^1.5.3",
+    "telegram": "^2.25.14",
+    "node-notifier": "^10.0.1"
+  }
+}
